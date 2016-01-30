@@ -1,0 +1,28 @@
+name: Electricity on the Blockchain
+favicon: null
+layout_spectrum: 0.5797951796557754
+typography_spectrum: 0.7474411972798407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06924506765790284
+  lightness: 0.5110578073654324
+  saturation: 0.3877862000372261
+  rhythmicContrast: 0.8930625333450735
+purpose: []
